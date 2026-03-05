@@ -1,39 +1,53 @@
-# Hi! I'm Noman
+<!-- Animated Typing Introduction -->
+<h1 align="center">Hi 👋, I'm Noman</h1>
 
-🎓 BSc CSE Student  
-🤖 Interested in Artificial Intelligence & Machine Learning  
-⚙️ Building Backend Systems and Intelligent Applications  
-🔬 Research: Image Processing, NLP, and Large Language Models  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BSc+CSE+Student;Exploring+AI+%2F+Machine+Learning;Backend+Development+Enthusiast;Seeking+Internship+Opportunities" />
+</p>
 
-🚀 Currently seeking internship opportunities in AI/ML and Backend Development.
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 💡 Passionate about building intelligent systems
-- 🔎 Research interests: Image Processing, NLP, LLMs
-- 🛠 Backend development for scalable ML applications
-- 📚 Continuously learning new technologies quickly
+- 🎓 BSc CSE Student  
+- 🤖 Interested in Artificial Intelligence & Machine Learning  
+- ⚙️ Exploring Backend Development  
+- 🔬 Research interests: Image Processing, NLP, and LLMs  
+- 🚀 Currently seeking internship opportunities  
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages**
-
+### Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 
-**AI / ML**
-
+### AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![NLP](https://img.shields.io/badge/NLP-yellow)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 
-**Backend**
-
+### Backend
 ![Backend](https://img.shields.io/badge/Backend-Development-blue)
 ![REST API](https://img.shields.io/badge/REST-API-green)
 
@@ -41,26 +55,25 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Project Name**  
-Short description of the project and what technologies you used.
+🔹 **Project 1**  
+Short description of your AI/ML or backend project.
 
-🔹 **Project Name**  
-Short description explaining the problem and solution.
+🔹 **Project 2**  
+Explain what problem you solved.
 
-🔹 **Project Name**  
-Highlight ML model / backend system.
+🔹 **Project 3**  
+Highlight technologies and results.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your.email@example.com
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
