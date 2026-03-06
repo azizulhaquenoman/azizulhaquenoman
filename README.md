@@ -10,7 +10,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/azizulhaquenoman">
+<a href="https://www.linkedin.com/in/azizulhaquenoman/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 
