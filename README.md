@@ -10,15 +10,15 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/azizulhaquenoman">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:azizulhaquenoman@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/azizulhaquenoman">
 <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
 </a>
 </p>
