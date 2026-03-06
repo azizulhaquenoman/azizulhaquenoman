@@ -30,8 +30,7 @@
 - 🎓 BSc CSE Student  
 - 🤖 Interested in Artificial Intelligence & Machine Learning  
 - ⚙️ Exploring Backend Development  
-- 🔬 Research interests: Image Processing, NLP, and LLMs  
-- 🚀 Currently seeking internship opportunities  
+- 🔬 Research interests: Image Processing, NLP, and LLMs 
 
 ---
 
@@ -46,10 +45,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![NLP](https://img.shields.io/badge/NLP-yellow)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
+![LLM](https://img.shields.io/badge/LLM-blue)
 
 ### Backend
-![Backend](https://img.shields.io/badge/Backend-Development-blue)
-![REST API](https://img.shields.io/badge/REST-API-green)
 
 ---
 
