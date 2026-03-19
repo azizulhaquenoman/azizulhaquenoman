@@ -6,35 +6,37 @@
 
 <p>Building intelligent systems through AI/ML and scalable backend development.</p>
 
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=azizulhaquenoman&color=58a6ff&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/azizulhaquenoman?label=Followers&style=flat-square&color=58a6ff)](https://github.com/azizulhaquenoman)
+-->
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an aspiring AI/ML Engineer and Developer who enjoys building intelligent systems and solving real-world problems through technology. I work on both research-driven and practical software projects, combining analytical thinking with hands-on development.
 
-- 🤖 Interested in **AI/ML and real-world system design**
-- 🛠️ Building **applications that solve practical problems**
-- 🔬 Exploring **machine learning, NLP, and intelligent systems**
-- ✍️ Focused on writing **clean, efficient, and scalable code**
+- Interested in **AI/ML and real-world system design**
+- Building **applications that solve practical problems**
+- Exploring **machine learning, NLP, and intelligent systems**
+- Focused on writing **clean, efficient, and scalable code**
 
 ---
 
-## 📬 Reach Me
+## Reach Me
 
 📧 [azizulhaquenoman@gmail.com](mailto:azizulhaquenoman@gmail.com)
 
 🌐 [Know Me Better](https://azizulhaquenoman.github.io/noman-trajectory/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azizulhaquenoman)&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)&nbsp;[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azizulhaquenoman)&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/azizul.haque.noman.00)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azizulhaquenoman)&nbsp;[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/azizul_noman)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -74,7 +76,7 @@ I'm an aspiring AI/ML Engineer and Developer who enjoys building intelligent sys
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -113,7 +115,7 @@ A personal growth platform integrating goal tracking, journaling, and life manag
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
