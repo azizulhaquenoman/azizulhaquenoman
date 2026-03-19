@@ -82,7 +82,7 @@ I'm an aspiring AI/ML Engineer and Developer who enjoys building intelligent sys
   <tr>
     <td width="50%" valign="top">
 
-**[DirectEdge](https://github.com/azizulhaquenoman/direct-edge)**
+**[DirectEdge](https://github.com/TashinParvez/direct-edge)**
 
 DirectEdge: Smart 4-sided agri platform connecting farmers, distributors & shops. Optimizes supply chains with real-time inventory, demand forecasting & AI-driven insights.
 
@@ -93,12 +93,12 @@ DirectEdge: Smart 4-sided agri platform connecting farmers, distributors & shops
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-→-58a6ff?style=flat-square)](https://github.com/azizulhaquenoman/direct-edge)
+[![View Repo](https://img.shields.io/badge/View_Repo-→-58a6ff?style=flat-square)](https://github.com/TashinParvez/direct-edge)
 
 </td>
     <td width="50%" valign="top">
 
-**[Kairos](https://github.com/azizulhaquenoman/Kairos)**
+**[Kairos](https://github.com/TashinParvez/Kairos)**
 
 A personal growth platform integrating goal tracking, journaling, and life management tools to improve productivity and accountability.
 
@@ -109,7 +109,7 @@ A personal growth platform integrating goal tracking, journaling, and life manag
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-→-58a6ff?style=flat-square)](https://github.com/azizulhaquenoman/Kairos)
+[![View Repo](https://img.shields.io/badge/View_Repo-→-58a6ff?style=flat-square)](https://github.com/TashinParvez/Kairos)
 
 </td>
   </tr>
