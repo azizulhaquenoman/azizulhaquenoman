@@ -89,8 +89,9 @@ DirectEdge: Smart 4-sided agri platform connecting farmers, distributors & shops
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Stars](https://img.shields.io/github/stars/azizulhaquenoman/direct-edge?style=flat-square&color=58a6ff)
-![Forks](https://img.shields.io/github/forks/azizulhaquenoman/direct-edge?style=flat-square&color=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View_Repo-→-58a6ff?style=flat-square)](https://github.com/azizulhaquenoman/direct-edge)
 
@@ -104,8 +105,9 @@ A personal growth platform integrating goal tracking, journaling, and life manag
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Stars](https://img.shields.io/github/stars/azizulhaquenoman/Kairos?style=flat-square&color=58a6ff)
-![Forks](https://img.shields.io/github/forks/azizulhaquenoman/Kairos?style=flat-square&color=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View_Repo-→-58a6ff?style=flat-square)](https://github.com/azizulhaquenoman/Kairos)
 
@@ -130,11 +132,3 @@ A personal growth platform integrating goal tracking, journaling, and life manag
 [![GitHub Streak](https://streak-stats.demolab.com?user=azizulhaquenoman&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
-
-
-
-<!-- <div align="center">
-
-*"Building intelligent systems that solve real-world problems."*
-
-</div> -->
