@@ -115,6 +115,9 @@ A personal growth platform integrating goal tracking, journaling, and life manag
   </tr>
 </table>
 
+
+<!-- 
+
 ---
 
 ## GitHub Stats
@@ -131,4 +134,4 @@ A personal growth platform integrating goal tracking, journaling, and life manag
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=azizulhaquenoman&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-</div>
+</div> -->
